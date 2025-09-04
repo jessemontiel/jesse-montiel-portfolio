@@ -1,2 +1,2 @@
 # jesse-montiel-portfolio
-Portfolio of programming projects and coursework in C++, Python, SQL, and more
+A simple showcase of programming projects and coursework in C++, Python, SQL
